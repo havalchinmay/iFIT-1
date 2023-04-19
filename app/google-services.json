@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850003863574",
+    "project_id": "healthcare-ifit",
+    "storage_bucket": "healthcare-ifit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850003863574:android:33332475ea75dea3026d37",
+        "android_client_info": {
+          "package_name": "com.healthcare.ifit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850003863574-r2u89igc4ebimcafntv9u4p4mdbbr5uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsmb0tR0gsa-feY3QmRYHmFlkTq2UDy98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850003863574-r2u89igc4ebimcafntv9u4p4mdbbr5uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
