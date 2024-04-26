@@ -27,3 +27,8 @@ To run the app locally, follow these steps:
 3. Explore the BMI calculator, weight tracker, and height tracker.
 4. Check out the product selling page.
 
+## Pics
+
+![test_page-0001](https://github.com/havalchinmay/iFIT-1/assets/125662714/4c232295-2fa6-4904-9b49-9037f3368cff)
+
+
