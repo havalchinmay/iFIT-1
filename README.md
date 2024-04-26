@@ -27,14 +27,3 @@ To run the app locally, follow these steps:
 3. Explore the BMI calculator, weight tracker, and height tracker.
 4. Check out the product selling page.
 
-## Contributing
-
-Contributions are welcome! If you'd like to enhance the app, fix bugs, or add new features, feel free to submit pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-Feel free to customize this template further to match your app's specifics. Good luck with your project, and happy coding! 🚀
